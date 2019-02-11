@@ -15,5 +15,12 @@
     /* This class hasn't been defined yet - You get to do it!
     The negative class should switch the background color from light to dark
     and the text color from dark to light. */
-    
+    background:black;
+    color:white;
+}
+
+.my{
+    box-shadow: 5px 5px 5px red;
+    font-family: sans-serif;
+    font-size: 3em;
 }
